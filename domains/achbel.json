@@ -1,0 +1,10 @@
+{
+  "owner": {
+    "username": "achbelsdn",
+    "email": "achbelsdn@gmail.com"
+  },
+  "records": {
+    "CNAME": "achbel.vercel.app"
+  },
+  "proxied": false
+}
